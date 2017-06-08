@@ -1,3 +1,8 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
 h1 {
   font-size: 70px;
 }
