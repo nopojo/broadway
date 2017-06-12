@@ -23,7 +23,7 @@ header {
   font-size: 18px;
 }
 
-footer {
+footer,footer a {
   background-color: dimgray;
   color: white;
   font-size: 11px;
