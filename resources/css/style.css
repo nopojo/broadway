@@ -25,6 +25,7 @@ header {
 
 .divider {
   background-image: url("./resources/images/the-flatiron-building.png");
+  color: white;
 }
 
 footer,footer a {
