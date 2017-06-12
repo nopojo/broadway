@@ -23,6 +23,10 @@ header {
   font-size: 18px;
 }
 
+divider {
+  background-image: url(./resources/images/the-flatiron-building.png);
+}
+
 footer,footer a {
   background-color: dimgray;
   color: white;
