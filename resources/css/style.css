@@ -23,7 +23,7 @@ header {
   font-size: 18px;
 }
 
-divider {
+.divider {
   background-image: url(./resources/images/the-flatiron-building.png);
 }
 
