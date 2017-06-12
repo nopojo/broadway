@@ -29,6 +29,10 @@ header {
   font-size: 18px;
 }
 
+header a {
+  color: white;
+}
+
 .divider {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
