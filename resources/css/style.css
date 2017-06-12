@@ -19,6 +19,13 @@ h3 {
   font-size: 23px;
 }
 
+header {
+  font-size: 18px;
+}
+
 footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
   text-align: left;
 }
